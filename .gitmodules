@@ -1,4 +1,0 @@
-[submodule "skill-sample-nodejs-fact"]
-    path = skill-sample-nodejs-fact
-    url = git://github.com/jeevandongre/experiementswithecho.git
-    ignore = dirty
